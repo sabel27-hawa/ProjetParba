@@ -112,8 +112,9 @@ hr{
     margin-bottom: -150px;
 }
 .capture1{
-    margin-left: 850px;
-    margin-top: -20px;
+    position: relative;
+    left: 400px;
+    bottom: 110px;
 }
 .part1{
     margin-right: 50px;
@@ -143,20 +144,31 @@ hr{
     width: 50px;  
     height: 500px;
     bottom: -5px;
-    
     padding-top: 50px;
     padding-left: 700px;
     border: none;
     border-radius: 100px;
 }
+.bass{
+    position: relative;
+    right: -230px;
+    top: 310px;
+}
+#btn2{
+    position: relative;
+    left: 1000px;
+    top: -250px;
+    
+
+}
 .tof1{
     text-align: center;
-    margin-top: -100px;
+    margin-top: -95px;
     width: -15px;
 }
 .tof2{
     text-align: center;
-    margin-top: -100px;
+    margin-top: -95px;
     width: -15px;
 }
 .img1{
@@ -164,6 +176,8 @@ hr{
     margin-top: 95px;
     margin-right: 200px;
     border: 2px solid #125d75;
+    width: 250px;
+    top: 30px;
     margin-bottom: 80px;
     margin-right: 100px;
     color: black;
